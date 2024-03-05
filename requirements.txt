@@ -1,0 +1,13 @@
+gradio
+langchain
+langchain-core
+langchain-community
+langchain-openai
+langchain-text-splitters
+langchainhub
+gradio
+gradio-client
+faiss-cpu
+openai
+pypdf
+python-dotenv
